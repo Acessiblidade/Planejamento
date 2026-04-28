@@ -16,7 +16,7 @@ Lista de bullet points encontrados:
 
 4. 
 
-5. 
+5. Existe uma série de diretrizes chamadas WCAG internacionais do W3C para tornar sites e aplicativos acessíveis para pessoas com deficiências, que funcionam como um guia para tornar interfaces perceptíveis, operáveis, compreensíveis e robustas
 
 # Como isso afeta o nosso trabalho como desenvolvedores
 
