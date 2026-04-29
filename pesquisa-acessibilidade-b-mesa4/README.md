@@ -14,7 +14,7 @@ Lista de bullet points encontrados:
 
 3. A deficiência não está na pessoa, mas na barreira que o produto sem acessibilidade cria.
 
-4. 
+4. As diversas tecnologias diferentes que existem para tentar ser o mais acessível possível, tecnologias que nunca haviam passado pela nossa cabeça, mas que se mostram fundamentais para um inclusão mais completa
 
 5. Existe uma série de diretrizes chamadas WCAG internacionais do W3C para tornar sites e aplicativos acessíveis para pessoas com deficiências, que funcionam como um guia para tornar interfaces perceptíveis, operáveis, compreensíveis e robustas
 
