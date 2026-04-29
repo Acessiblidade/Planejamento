@@ -12,7 +12,7 @@ Lista de bullet points encontrados:
 
 2.  Uma legislação forte favorece o desenvolvimento da acessibilidade nas empresas privadas, melhorando a qualidade de vida daqueles que têm qualquer tipo de desfavorecimento, seja físico ou tecnológico. No Brasil, com a FEBRABAN (Federação Brasileira de Bancos) e sua legislação, por exemplo, muitas instituições bancárias se tornaram referências internacionais ao dar dignidade aos seus clientes.
 
-3. 
+3. A deficiência não está na pessoa, mas na barreira que o produto sem acessibilidade cria.
 
 4. 
 
