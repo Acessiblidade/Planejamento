@@ -10,7 +10,7 @@ Lista de bullet points encontrados:
 
 1. A JBS se destaca dentro do grupo J&F por ações estruturadas de inclusão, como centros de capacitação para PcDs e contratação acima da cota  legal.Fontes: Relatório de Sustentabilidade JBS 2024/2025
 
-2. 
+2.  Uma legislação forte favorece o desenvolvimento da acessibilidade nas empresas privadas, melhorando a qualidade de vida daqueles que têm qualquer tipo de desfavorecimento, seja físico ou tecnológico. No Brasil, com a FEBRABAN (Federação Brasileira de Bancos) e sua legislação, por exemplo, muitas instituições bancárias se tornaram referências internacionais ao dar dignidade aos seus clientes.
 
 3. 
 
